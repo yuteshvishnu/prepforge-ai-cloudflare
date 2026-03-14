@@ -60,4 +60,4 @@ All backend logic runs on Cloudflare’s edge platform.
 
 ## Demo
 
-<img src="assets/demo.png" width="800"/>
+![img](src/assets/ui-example-demo.png)
