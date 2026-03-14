@@ -60,4 +60,4 @@ All backend logic runs on Cloudflare’s edge platform.
 
 ## Demo
 
-![PrepForge Demo](assets/ui-example-demo.png)
+<img src="assets/demo.png" width="800"/>
